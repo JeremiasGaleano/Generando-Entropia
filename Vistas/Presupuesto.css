@@ -1,0 +1,8 @@
+﻿* {
+    margin: 0px;
+    padding: 0px;
+}
+body { /* selector*/
+    background-color: lightgray;
+    font-family: Arial, Helvetica, sans-serif;
+}

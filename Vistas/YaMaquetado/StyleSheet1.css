@@ -1,0 +1,125 @@
+﻿* {
+    margin: 0px;
+    padding: 0px;
+}
+/*
+button{
+    color: black;
+    background-color: gray  ;
+}
+*/
+
+    body { /* selector*/
+    background-color: lightgray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#container { /* selector*/
+    width: 1100px;
+    margin: 0px auto;
+    border: 1px solid red;
+}
+
+header { /* selector*/
+    background-color: #00008B;
+    height: 100px;
+    width: 100%;
+    text-align: left;
+    line-height: 100px;
+    color: white;
+    
+}
+
+#seccion { /* selector*/
+    width: 1100px;
+    margin: 0px auto;
+    border: 1px solid yellow;
+    background-image: fondo-ipad.jpg;
+}
+
+nav {
+    background: white;
+    height: 67px;
+    
+    width: 1109px;
+}
+
+    nav ul li {
+       
+        float: left; /*para alinear horizontalmente de izquierda a derecha*/
+        list-style: none; /*le quita el estilo de letra y le deja el style por defecto */
+        margin: 10px; /* margen para separar las palabras entre si */
+        line-height: 30px; /* centra los enlaces*/
+    }
+
+.bn {
+    line-height: 20px; /* centra el boton del nav*/
+    margin-top: 15px; /*margen superior*/
+    margin: 10px;
+    width: 95px;
+    height: 28px;
+}
+
+.clearfix {
+    clear: both; /* cuando floto los elementos estos se quedan en su sitio*/
+}
+
+#content {
+    float: left;
+    width: calc(80% - 80px);
+    background: none;
+    min-height: 500px; /*altura minima*/
+    padding: 40px;
+}
+
+.article {
+    color: black;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+    border-bottom: 3px solid #00008B;
+}
+
+    .article:first-child {
+        padding-top: 10px;
+        border-top: 3px solid #00008B;
+    }
+
+.article {
+    font-size: 25px;
+}
+
+aside {
+    float: left;
+    width: calc(20% - 20px);
+    background: orange;
+    min-height: 500px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+footer {
+    background: black;
+    color: white;
+    text-align: center; /*para centrar el texto*/
+    min-height: 30px; /*altura minima*/
+    margin-top: 20px;
+    line-height: 20px;
+    padding-top: 10px;
+}
+
+.logoPrincipal{
+    position: relative; /*con esta propiedad activo las de abajo*/
+    top:; /**/
+    bottom:; /**/
+    right:; /**/
+    left: 10px; /**/
+}
+
+#container {
+    position:;
+    top:; /**/
+    bottom:; /**/
+    right:; /**/
+    left:; /**/
+}

@@ -1,0 +1,33 @@
+﻿* {
+    margin: 0px;
+    padding: 0px;
+}
+/*
+button{
+    color: black;
+    background-color: gray  ;
+}
+*/
+
+body { /* selector*/
+    background-color: lightgray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#container { /* selector*/
+    width: 1100px;
+    margin: 0px auto;
+    border: 1px solid red;
+}
+
+header { /* selector*/
+    background-color: #00008B;
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    line-height: 100px;
+    color: white;
+    border-bottom: 3 px solid black;
+}
+
+#seccion { /* selector*/
