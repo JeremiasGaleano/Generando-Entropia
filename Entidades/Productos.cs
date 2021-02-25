@@ -9,65 +9,94 @@ namespace Entidades
     //escribo todos los campos que va a tener la entidad.
     public class Productos
     {
-        string codigo_producto; //completado
-        string nombre_producto; //completado
-        decimal precio_producto; //complteado
-        bool estado;    //completado
-        string url_imagen;  //completado
+        string Id_Productos; 
+        decimal PU_Productos; 
+        int Stock_Productos; 
+        bool Estado_Productos;    
+        string Categoria_Productos;
+        string Descripcion_Productos;
+        string ImageURL_Productos;  
 
+        // CONSTRUCTOR VACIO
         public Productos()
         {
 
         }
 
-        public void set_codigo_producto(string nuevo_codigo_producto)
+        //*********************set y get ID******************
+        public void set_Id_Productos(string _Id_Productos)
         {
-            this.codigo_producto = nuevo_codigo_producto;
+            this.Id_Productos = _Id_Productos;
         }
 
-        public string get_codigo_producto()
+        public string get_Id_Productos()
         {
-            return this.codigo_producto;
+            return this.Id_Productos;
         }
 
-        public void set_nombre_producto(string nuevo_nombre_producto)
+        //*********************set y get PRECIO UNITARIO****************
+        public void set_PU_Productos(decimal _PU_Productos)
         {
-            this.nombre_producto = nuevo_nombre_producto;
+            this.PU_Productos = _PU_Productos;
         }
 
-        public string get_nombre_producto()
+        public decimal get_PU_Productos()
         {
-            return this.nombre_producto;
+            return this.PU_Productos;
         }
 
-        public void set_precio_producto(decimal nuevo_precio)
+        //*********************set y get ESTADO**************
+        public void set_Stock_Productos(int _Stock_Productos)
         {
-            this.precio_producto = nuevo_precio;
+            this.Stock_Productos = _Stock_Productos;
         }
 
-        public Decimal get_precio_producto()
+        public int get_Stock_Productos()
         {
-            return this.precio_producto;
+            return this.Stock_Productos;
         }
 
-        public void set_estado(bool nuevo_estado)
+        //*********************set y get ESTADO******************
+        public void set_Estado_Productos(bool _Estado_Productos)
         {
-            this.estado = nuevo_estado;
+            this.Estado_Productos = _Estado_Productos;
         }
 
-        public bool get_estado()
+        public bool get_Estado_Productos()
         {
-            return this.estado;
+            return this.Estado_Productos;
         }
 
-        public void  set_url_imagen(string nueva_url)
+        //*********************set y get CATEGORIA******************
+        public void set_Categoria_Productos(string _Categoria_Productos)
         {
-            this.url_imagen = nueva_url;
+            this.Categoria_Productos = _Categoria_Productos;
         }
 
-        public string get_codigo_imagen()
+        public string get_Categoria_Productos()
         {
-            return this.url_imagen;
+            return this.Categoria_Productos;
+        }
+
+        //*********************set y get DESCRIPCION******************
+        public void set_Descripcion_Productos(string _Descripcion_Productos)
+        {
+            this.Categoria_Productos = _Descripcion_Productos;
+        }
+
+        public string get_Descripcion_Productos()
+        {
+            return this.Descripcion_Productos;
+        }
+        //*********************set y get IMAGEN******************
+        public void set_ImageURL_Productos(string _ImageURL_Productos)
+        {
+            this.ImageURL_Productos = _ImageURL_Productos;
+        }
+
+        public string get_ImageURL_Productos()
+        {
+            return this.ImageURL_Productos;
         }
     }
 }

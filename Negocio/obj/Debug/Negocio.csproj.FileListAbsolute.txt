@@ -53,3 +53,14 @@ C:\Users\Windows 10 Pro\Desktop\UTN gral\UTN 2020_1c\PROG3\TP_FINAL_VASS\1111\Ne
 C:\Users\Windows 10 Pro\Desktop\UTN gral\UTN 2020_1c\PROG3\TP_FINAL_VASS\1111\Negocio\obj\Debug\Negocio.csproj.CopyComplete
 C:\Users\Windows 10 Pro\Desktop\UTN gral\UTN 2020_1c\PROG3\TP_FINAL_VASS\1111\Negocio\obj\Debug\Negocio.dll
 C:\Users\Windows 10 Pro\Desktop\UTN gral\UTN 2020_1c\PROG3\TP_FINAL_VASS\1111\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Windows 10 Pro\Source\Repos\Generando-Entropia\Negocio\bin\Debug\Negocio.dll
+C:\Users\Windows 10 Pro\Source\Repos\Generando-Entropia\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Windows 10 Pro\Source\Repos\Generando-Entropia\Negocio\bin\Debug\Dao.dll
+C:\Users\Windows 10 Pro\Source\Repos\Generando-Entropia\Negocio\bin\Debug\Entidades.dll
+C:\Users\Windows 10 Pro\Source\Repos\Generando-Entropia\Negocio\bin\Debug\Dao.pdb
+C:\Users\Windows 10 Pro\Source\Repos\Generando-Entropia\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Windows 10 Pro\Source\Repos\Generando-Entropia\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\Windows 10 Pro\Source\Repos\Generando-Entropia\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10 Pro\Source\Repos\Generando-Entropia\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Windows 10 Pro\Source\Repos\Generando-Entropia\Negocio\obj\Debug\Negocio.dll
+C:\Users\Windows 10 Pro\Source\Repos\Generando-Entropia\Negocio\obj\Debug\Negocio.pdb
