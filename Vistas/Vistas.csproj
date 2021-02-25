@@ -68,6 +68,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="YaMaquetado\navresponsive.aspx.cs">
+      <DependentUpon>navresponsive.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="YaMaquetado\navresponsive.aspx.designer.cs">
+      <DependentUpon>navresponsive.aspx</DependentUpon>
+    </Compile>
     <Compile Include="YaMaquetado\Registro.aspx.cs">
       <DependentUpon>Registro.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -177,6 +184,7 @@
     <Content Include="YaMaquetado\Estilos css\Home.css" />
     <Content Include="YaMaquetado\Estilos css\logo.jpg" />
     <Content Include="YaMaquetado\fondo-marmol-EDITADA.jpg" />
+    <Content Include="YaMaquetado\navresponsive.aspx" />
     <Content Include="YaMaquetado\Registro.aspx" />
     <Content Include="YaMaquetado\admin_ventas.aspx" />
     <Content Include="YaMaquetado\Admin_presupuestos.aspx" />
