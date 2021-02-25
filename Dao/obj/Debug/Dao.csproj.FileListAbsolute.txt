@@ -43,3 +43,12 @@ C:\Users\Windows 10 Pro\Desktop\UTN gral\UTN 2020_1c\PROG3\TP_FINAL_VASS\1111\Da
 C:\Users\Windows 10 Pro\Desktop\UTN gral\UTN 2020_1c\PROG3\TP_FINAL_VASS\1111\Dao\obj\Debug\Dao.csproj.CopyComplete
 C:\Users\Windows 10 Pro\Desktop\UTN gral\UTN 2020_1c\PROG3\TP_FINAL_VASS\1111\Dao\obj\Debug\Dao.dll
 C:\Users\Windows 10 Pro\Desktop\UTN gral\UTN 2020_1c\PROG3\TP_FINAL_VASS\1111\Dao\obj\Debug\Dao.pdb
+C:\Users\Windows 10 Pro\Source\Repos\Generando-Entropia\Dao\bin\Debug\Dao.dll
+C:\Users\Windows 10 Pro\Source\Repos\Generando-Entropia\Dao\bin\Debug\Dao.pdb
+C:\Users\Windows 10 Pro\Source\Repos\Generando-Entropia\Dao\bin\Debug\Entidades.dll
+C:\Users\Windows 10 Pro\Source\Repos\Generando-Entropia\Dao\bin\Debug\Entidades.pdb
+C:\Users\Windows 10 Pro\Source\Repos\Generando-Entropia\Dao\obj\Debug\Dao.csprojAssemblyReference.cache
+C:\Users\Windows 10 Pro\Source\Repos\Generando-Entropia\Dao\obj\Debug\Dao.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10 Pro\Source\Repos\Generando-Entropia\Dao\obj\Debug\Dao.csproj.CopyComplete
+C:\Users\Windows 10 Pro\Source\Repos\Generando-Entropia\Dao\obj\Debug\Dao.dll
+C:\Users\Windows 10 Pro\Source\Repos\Generando-Entropia\Dao\obj\Debug\Dao.pdb
